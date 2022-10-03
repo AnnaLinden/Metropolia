@@ -1,4 +1,5 @@
-# print ("Hello, Anna!")\\
+#print ("Hello, Anna!")
+
 
 # Exercise 1
 
@@ -51,7 +52,7 @@ print ("The weight in modern units\n", kilos, " kilograms and " ,grams ," grams.
 from random import seed
 from random import randint
 #seed (1)
-
+'''
 dig1 = randint (0,10)
 dig2 = randint (0,10)
 dig3 = randint (0,10)
